@@ -27,8 +27,6 @@
 
 <br>
 
-### 📊 Моя статистика
-
 <div align="center">
   <!-- Карточка статистики GitHub -->
   <img src="https://github-readme-stats.vercel.app/api?username=SergoHop&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=ffffff&text_color=c9d1d9&icon_color=58a6ff" alt="GitHub Stats" />
@@ -39,6 +37,3 @@
 
 <br>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=SergoHop&color=blueviolet&style=flat-square&label=ПРОСМОТРЫ+ПРОФИЛЯ" alt="Profile views" />
-</div>
